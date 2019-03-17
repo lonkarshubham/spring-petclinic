@@ -1,5 +1,5 @@
 
-FROM maven:3.6.0-jdk-11
+FROM maven:3.6-jdk-8
 
 RUN mkdir -p /deploy/application
 
